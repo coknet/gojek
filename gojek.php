@@ -141,15 +141,12 @@ function change(){
          }else{
          save("akungojek10k.txt","[+] Gojek Account Info [+]\nNama = $nama\nNomer = $no\nAccess Token = $token");
          }
-         setpin:
          echo "\n".color("nevy","?] Mau Nembak Voucher Lagi ? : ");
          $pilih1 = trim(fgets(STDIN));
          if($pilih1 == "y" || $pilih1 == "Y"){
         goto ulang;
          }else if($pilih1 == "n" || $pilih1 == "N"){
         die();
-         }else{
-         echo color("red","-] Access Denied !\n");
          }
          }
          }
