@@ -169,10 +169,6 @@ function change(){
          }else{
          die;
          }
-         }else{
-         echo "\n==============Register==============\n";
-         goto ulang;
-  }
- }
+}
 }
 echo change()."\n"; ?>
