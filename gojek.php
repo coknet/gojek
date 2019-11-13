@@ -167,7 +167,11 @@ function change(){
          if($pilih == "y" || $pilih == "Y"){
          goto ulang;
          }else{
-         die;
+         echo "Error, Please Try Again !";
+         }
+         }else{
+                echo "\n==============Register==============\n";
+                goto ulang;
          }
 }
 }
