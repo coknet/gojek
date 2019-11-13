@@ -167,8 +167,7 @@ function change(){
          echo "Error, Please Try Again !";
          }
          }else{
-                echo "\n==============Register==============\n";
-                goto ulang;
+                end;
          }
 }
 }
