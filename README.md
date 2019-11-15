@@ -1,7 +1,7 @@
 GOJEK CREATOR X REDEEM VOUCHER
-
-Cara menggunakan
-1. Download Termux
+Buat para malink Script, jangan Lupa bintangnya yaa :)
+Cara menggunakan :
+1. Download Termux di Playstore
 2. Pkg install git
 3. Pkg install php
 4. git clone https://github.com/coknet/gojek
