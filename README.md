@@ -1,5 +1,5 @@
 GOJEK CREATOR X REDEEM VOUCHER
-Buat para malink Script, jangan Lupa bintangnya yaa :)
+
 Cara menggunakan :
 1. Download Termux di Playstore
 2. Pkg install git
