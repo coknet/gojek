@@ -41,7 +41,6 @@ function change(){
         $message = fetch_value($code1,'"message":"','"');
         if(strpos($code1, 'Promo kamu sudah bisa dipakai')){
         echo "\n".color("green","+] Message: ".$message);
-        goto goride;
         }else{
         echo "\n".color("red","-] Message: ".$message);
         echo "\n".color("yellow","!] Maaf Boss Gabisa :v");
